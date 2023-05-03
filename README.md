@@ -1,4 +1,4 @@
-Project Title: # Tech_Unicorn
+<Bold>Project Title: # Tech_Unicorn<Bold>
 This project provides data visualization for the top 10 countries with the most unicorn companies.
 
 Description
