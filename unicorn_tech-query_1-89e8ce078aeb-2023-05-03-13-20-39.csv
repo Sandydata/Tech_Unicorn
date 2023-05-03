@@ -1,0 +1,11 @@
+"unicorn_rank","country","num_unicorn","total_valuation_billion","population_in_millions","imf_gdp_in_billions","gdp_per_cap"
+1,"United States",636,2069.89,338,26695.0,78912.0
+2,"China",174,678.59,1426,21865.0,15335.0
+3,"India",70,202.92,1417,3894.0,2747.0
+4,"United Kingdom",46,205.45,68,3687.0,54614.0
+5,"Germany",29,80.88,83,4565.0,54753.0
+6,"France",24,58.42,65,3086.0,47755.0
+7,"Israel",22,48.02,9,548.0,60605.0
+8,"Canada",19,49.23,38,2362.0,61432.0
+9,"Brazil",17,40.08,215,1980.0,9198.0
+9,"South Korea",17,34.13,52,1920.0,37046.0
