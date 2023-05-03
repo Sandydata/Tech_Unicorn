@@ -1,4 +1,4 @@
-# **Project Title: Tech Unicorns by Country _ Data Analysis**
+# **Project Title: Tech Unicorns by Country - Data Analysis**
 This project provides data visualization for the top 10 countries with the most unicorn companies.
 
 ## **Description**
