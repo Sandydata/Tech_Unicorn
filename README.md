@@ -7,6 +7,8 @@ The dataset includes the number of unicorn companies, their total valuation in b
 ## **Visualization**
 You can interact with the visualizations HERE: https://public.tableau.com/app/profile/sandy.lee4093/viz/ComparisonofTOP10CountrieswithNumberofTechUnicorns_/Dashboard-Results
 
+![Screenshot 2023-05-07 at 1 51 33 PM](https://user-images.githubusercontent.com/132478980/236699699-779fff25-cfcc-4319-8095-1f859bb49d4d.png)
+
 ## **My Journey**
 As a data analyst, I thoroughly enjoyed working on this project. My main goal was to find meaningful relationships between three different datasets and create compelling visualizations using Tableau.
 
